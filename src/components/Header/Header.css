@@ -1,0 +1,25 @@
+.header-part{
+  background-image: url(../../assets/images/header-bg.png);
+}
+
+.header-part a{
+  color: white !important;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.header-part a:hover{
+  color: rgba(255, 0, 0, 0.685) !important;
+}
+
+
+span.badge.bg-primary {
+  position: relative;
+  font-size: 17px !important;
+  padding: 0 !important;
+  top: -6px !important;
+  background-color: orange !important;
+  width: 15px !important;
+  display: inline-block;
+  border-radius: 50%;
+}
